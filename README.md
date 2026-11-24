@@ -20,4 +20,4 @@ Run `node tests/smoke.mjs` for deterministic tests, including draft and archive 
 
 Assets were produced for this project: the harbour plate was generated with OpenAI ImageGen, then processed locally into the fictional tape. Effects and audio were synthesized; the poster is a frame of that tape. No third-party footage or audio is bundled.
 
-**Version:** v0.4.1. No public license is included.
+**Version:** v0.4.1. Licensed under the [MIT License](LICENSE).
